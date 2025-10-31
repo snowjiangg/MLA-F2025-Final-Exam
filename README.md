@@ -16,7 +16,7 @@ This repository contains solutions for the assignment covering conceptual questi
 5. Variant of the K-Nearest Neighbors algorithm and generalization bounds
 
 ## Files
-- `vetropal.com_MLAF2025_Final_Exam.pdf` : Google Colab notebook with all code, figures, and results.
+- `mla_f2025_final_exam_1.py.zip` : Google Colab notebook with all code, figures, and results.
 - `MLA_FINAL_F2025-SNOW_JIANG.pdf` : Written answers and discussions for all questions.
 - `README.md` : This file, describing how to run the code.
 
